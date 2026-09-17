@@ -18,7 +18,6 @@ htmlcov/
 .vscode/
 .idea/
 *.swp
-.DS_Store
 
 # OS
 .DS_Store
